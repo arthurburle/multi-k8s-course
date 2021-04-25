@@ -1,0 +1,7 @@
+docker run -it -v $(pwd):/app ruby:2.4 sh
+
+not passing: 
+--no-rdoc or --no-ri flags
+
+it will be just: 
+gem install travis
